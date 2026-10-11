@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b0a20"/><stop offset=".55" stop-color="#9b3157"/><stop offset="1" stop-color="#f1a6bf"/></linearGradient>
+    <linearGradient id="dress1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe3ec"/><stop offset="1" stop-color="#d45b83"/></linearGradient>
+    <linearGradient id="dress2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8c8d8"/><stop offset="1" stop-color="#8f2449"/></linearGradient>
+  </defs>
+  <rect width="1000" height="700" rx="36" fill="url(#bg)"/>
+  <circle cx="150" cy="130" r="80" fill="#ffe6ef" opacity=".13"/><circle cx="860" cy="150" r="120" fill="#ffe6ef" opacity=".12"/>
+  <g fill="#fff1f6" opacity=".8"><path d="M120 260c-35-45 18-76 39-35 23-42 76-10 38 35-20 24-38 36-38 36s-19-13-39-36z"/><path d="M810 280c-27-35 14-60 31-27 18-33 60-8 30 27-16 19-30 29-30 29s-15-10-31-29z"/></g>
+  <ellipse cx="500" cy="590" rx="300" ry="42" fill="#260613" opacity=".25"/>
+  <!-- friend on the left -->
+  <path d="M250 590c8-120 25-190 95-204 62-12 108 29 119 204z" fill="url(#dress1)"/>
+  <path d="M315 377c-19-48-5-102 43-111 49-9 85 26 75 78-8 40-31 65-65 65-24 0-43-12-53-32z" fill="#3b1828"/>
+  <ellipse cx="373" cy="310" rx="48" ry="58" fill="#c98573"/>
+  <path d="M326 304c-7-63 48-90 88-55 16 13 22 31 18 52-14-22-32-35-56-38-15 19-29 31-50 41z" fill="#3b1828"/>
+  <path d="M333 352q39 29 77-1" stroke="#8b3f4f" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <!-- friend on the right -->
+  <path d="M520 590c10-128 31-194 102-204 67-9 108 34 119 204z" fill="url(#dress2)"/>
+  <path d="M572 377c-17-47-4-103 44-112 48-9 84 26 75 78-7 40-31 65-64 65-25 0-44-12-55-31z" fill="#24111e"/>
+  <ellipse cx="629" cy="310" rx="48" ry="58" fill="#d79a81"/>
+  <path d="M582 302c-1-53 44-82 82-56 23 15 31 36 22 62-12-25-34-39-57-40-12 16-27 26-47 34z" fill="#24111e"/>
+  <path d="M589 352q39 29 77-1" stroke="#8b3f4f" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <!-- arms / friendship -->
+  <path d="M420 430c48 40 66 40 105 1" stroke="#c98573" stroke-width="25" fill="none" stroke-linecap="round"/>
+  <path d="M460 433c21 14 37 14 57-1" stroke="#d79a81" stroke-width="24" fill="none" stroke-linecap="round"/>
+  <g fill="#fff7fa" opacity=".9"></g>
+</svg>
